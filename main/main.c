@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("hello world\n");
+	printf("I will remove \"printf(\"Hello world\");\"");
+       	printf("add this code,and continue to printf\n");
 	return 0;
 }
